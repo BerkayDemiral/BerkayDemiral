@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bberkaydemiral@gmail.com**
 
-- 🎮 Explore my games, experiments, and projects here: **[berkaydemiral.github.io/](https://berkaydemiral.github.io/)**
+- 🎮 Explore my games, experiments, and projects here: **[berkaydemiral.github.io](https://berkaydemiral.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
